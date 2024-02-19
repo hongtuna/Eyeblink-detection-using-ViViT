@@ -2,8 +2,7 @@
 
 This repository contains the official implementation of the WACV 2024 paper "Robust Eye Blink Detection Using Dual Embedding Video Vision Transformer".
 
- ### [Paper📝]() • [Video 🎥]() • [Poster📂]()
- ###
+#### [Paper📝]() • [Video 🎥]() • [Poster📂]() ####
 
 ## About
 
