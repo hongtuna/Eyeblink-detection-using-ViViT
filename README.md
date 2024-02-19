@@ -2,13 +2,13 @@
 
 This repository contains the official implementation of the WACV 2024 paper "Robust Eye Blink Detection Using Dual Embedding Video Vision Transformer".
 
- ### Paper 📝(https://wenzhengzeng.github.io/mpeblink/static/images/mpeblink.pdf) • Video 🎥 (https://www.youtube.com/watch?v=ngME7dym0Uk) • Poster 📂 ()
+ ### [Paper📝]() • [Video 🎥]() • [Poster📂]()
  ###
 
 ## About
 
 
-##
+## DE-ViViT
 ### Model Architecture
 This code is inspired by ViViT. Thanks for their great contribuion on the computer vision research.
 
@@ -16,15 +16,16 @@ This code is inspired by ViViT. Thanks for their great contribuion on the comput
 ### Training 
 ### Evaluation
 
+## MAEB
 
 
-## Reference
+
 
 ## Contact 
 Please let me know if you have any questions: jeongminhong@hanyang.ac.kr
 
 ## Citation
-'''
+```
 @inproceedings{hong2024robust,
   title={Robust Eye Blink Detection Using Dual Embedding Video Vision Transformer},
   author={Hong, Jeongmin and Shin, Joseph and Choi, Juhee and Ko, Minsam},
@@ -32,5 +33,5 @@ Please let me know if you have any questions: jeongminhong@hanyang.ac.kr
   pages={6374--6384},
   year={2024}
 }
-'''
+```
 
