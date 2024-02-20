@@ -27,7 +27,7 @@ To observe the performance of the proposed and baseline eye blink detection meth
 
 
 ## MAEB
-Our custom-collected dataset, MAEB, was specifically designed to investigate the blink detection performance of our model under varying camera angles; this was achieved through controlled experiments con- ducted in-house.
+Our custom-collected dataset, MAEB, was specifically designed to investigate the blink detection performance of our model under varying camera angles.
 
 ![setting](https://github.com/hongtuna/Eyeblink-detection-using-ViViT/assets/33884976/3e8a7268-de6d-4084-9fd6-9e7ac1b68cbe)
 
