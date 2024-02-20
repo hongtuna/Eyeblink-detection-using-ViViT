@@ -11,7 +11,8 @@ Capturing eye blinks from different camera angles poses significant challenges, 
 ### Model Architecture
 This code is inspired by [ViViT](https://keras.io/examples/vision/vivit/). 
 
-// image
+![model_architecture](https://github.com/hongtuna/Eyeblink-detection-using-ViViT/assets/33884976/03777632-6036-4881-97ef-bf0d69f8f324)
+
 
 ### Data Preparation
 [HUST-LEWB](https://thorhu.github.io/Eyeblink-in-the-wild/) dataset serves as the primary resource for both training and evaluation of our proposed model.
@@ -28,8 +29,7 @@ To observe the performance of the proposed and baseline eye blink detection meth
 ## MAEB
 Our custom-collected dataset, MAEB, was specifically designed to investigate the blink detection performance of our model under varying camera angles; this was achieved through controlled experiments con- ducted in-house.
 
-// image
-
+![setting](https://github.com/hongtuna/Eyeblink-detection-using-ViViT/assets/33884976/3e8a7268-de6d-4084-9fd6-9e7ac1b68cbe)
 
 To compile the MAEB dataset, we recruited 20 participants (6 females and 14 males), maintaining an even spectacle-wearing distribution. Nine cameras simultaneously captured the facial expressions of the participants from different angles during the video viewing task. We ensured an equal number of blink and non-blink sequences, using a total of 1,440 sequences to evaluate the model’s performance.
 
