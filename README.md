@@ -9,7 +9,8 @@ This repository contains the official implementation of the WACV 2024 paper "Rob
 
 ## DE-ViViT
 ### Model Architecture
-This code is inspired by ViViT. Thanks for their great contribuion on the computer vision research.
+This code is inspired by ViViT(https://keras.io/examples/vision/vivit/). Thanks for their great contribuion on the computer vision research.
+![model_architecture](https://github.com/hongtuna/Eyeblink-detection-using-ViViT/assets/33884976/860de27e-cab2-4b45-8153-7252b08ec8bc)
 
 ### Data Preparation
 ### Training 
