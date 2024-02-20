@@ -15,7 +15,7 @@ This code is inspired by [ViViT](https://keras.io/examples/vision/vivit/).
 
 
 ### Data Preparation
-[HUST-LEWB](https://thorhu.github.io/Eyeblink-in-the-wild/) dataset serves as the primary resource for both training and evaluation of our proposed model.
+[HUST-LEBW](https://thorhu.github.io/Eyeblink-in-the-wild/) dataset serves as the primary resource for both training and evaluation of our proposed model.
 
 
 ### Training 
